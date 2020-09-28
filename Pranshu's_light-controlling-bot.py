@@ -22,7 +22,7 @@ def off(bot,update):
 u = Updater(os.getenv(u))
 dp = u.dispatcher
 dp.add_handler(CommandHandler('on',on))
-dp.add_handler(CommandHandler('off',off))
+dp.add_handler(CommandHandler('off',off)) 
 u.start_polling()
 u.idle()
  
