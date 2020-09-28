@@ -1,1 +1,1 @@
-worker: python Pranshu's_light-controlling-bot.py
+worker : python Controlling-light-from-bot.py
