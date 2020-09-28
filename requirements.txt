@@ -1,5 +1,4 @@
 Client
 Updater
-CommandHandler
 requests
 Data
